@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GeraltR
-- 👀 I’m interested in programing, airplanes, literature S-F and fantasy, printing 3D
-- 🌱 I’m currently learning phyton
+- 👀 I’m interested in programing, air planes, literature S-F and fantasy, printing 3D
+- 🌱 I’m currently learning node and spring
 - 📫 How to reach me: find my in Internet :)
 
 <!---
